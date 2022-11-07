@@ -1,3 +1,3 @@
-# jQuery Web Development Lab Starter Files
+# Completed jQuery Web Development Lab
 
-The lab instructions are in the [PDF in the docs folder](docs/jQuery-w-slider.pdf).
+This is the completed example of the [lab from this repo](https://github.com/mustbebuilt/jquery-web-dev-lab).
